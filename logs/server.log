@@ -1,0 +1,12 @@
+[2025-02-28 07:28:28] Server started on port 4444
+[2025-02-28 07:32:53] Accepted connection from 127.0.0.1:49904
+[2025-02-28 07:33:06] Client kartik1 registered from 127.0.0.1:49904
+[2025-02-28 07:33:15] Accepted connection from 127.0.0.1:37324
+[2025-02-28 07:33:20] Client kartik2 registered from 127.0.0.1:37324
+[2025-02-28 07:33:42] Received from 127.0.0.1:49904: BROADCAST: hi this is kartik
+[2025-02-28 07:34:13] Received from 127.0.0.1:49904: SEND:kartik2: hi this is kartik1
+[2025-02-28 07:34:36] Received from 127.0.0.1:37324: SEND:kartik1:hi this is kartik2
+[2025-02-28 07:34:53] Client disconnected from 127.0.0.1:49904
+[2025-02-28 07:34:53] Closed connection for client from 127.0.0.1:49904
+[2025-02-28 07:49:32] Client disconnected from 127.0.0.1:37324
+[2025-02-28 07:49:32] Closed connection for client from 127.0.0.1:37324
